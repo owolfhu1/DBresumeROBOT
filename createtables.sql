@@ -29,5 +29,5 @@ CREATE TABLE skills (
     resume_id TEXT,
     skill TEXT,
     proficiency TEXT
-)
+);
 
